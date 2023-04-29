@@ -1,0 +1,6 @@
+127.0.0.1 - - [27/Apr/2023:23:36:10 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:23:36:11 +0530] "GET /Salary_Management/WEB-INF/classes/EmployeeSalaryManagement.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:23:36:11 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:23:56:22 +0530] "GET /Salary_Management/WEB-INF/classes/EmployeeSalaryManagement.java HTTP/1.1" 404 682
+127.0.0.1 - - [27/Apr/2023:23:58:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:23:58:21 +0530] "GET /Salary_Management/WEB-INF/classes/EmployeeSalaryManagement.java HTTP/1.1" 404 682

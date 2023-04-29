@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+/Users/yadikijanvith/Desktop/JDBC/.metadata/.plugins/org.eclipse.jdt.core
+2540607589.index
+3981961839.index
+1865797976.index
+2064338935.index
+2672732132.index
